@@ -776,7 +776,7 @@ var cnames_active = {
   "ddnet": "sans3108.github.io/DDNet",
   "decimalsystem": "uellenberg.github.io/DecimalSystem",
   "deck-of-cards": "pakastin.github.io/deck-of-cards",
-  "deck-of-cards": "cname.vercel-dns.com.",
+  "deck-of-cards-pixi": "cname.vercel-dns.com.",
   "declarativ": "fennifith.github.io/declarativ", // noCF
   "deep-mandelbrot": "munsocket.github.io/deep-mandelbrot",
   "deepcodes": "deepduggal.github.io/deepcodes",
